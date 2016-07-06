@@ -1,4 +1,4 @@
 main()
 {
-printf ("hello World! \n");
+printf ("hello \n");
 }
